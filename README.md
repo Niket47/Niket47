@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Niket Dadhaniya
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning ...
+- 👀 I’m Front-End Developer
 - 💞️ I’m looking to collaborate on Good Projects
 - 📫 How to reach me 
 - email: dadhaniyaniket153@gmail.com

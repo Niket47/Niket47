@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on React Native Projects<br>👯 I’m looking to collaborate on React Native Projects<br>💬 Ask me about React Native, JavaScript<br>📫 How to reach me dadhaniyaniket153@gmail.com
 
-![ezgif com-crop](https://github.com/Niket47/Niket47/assets/116706204/a66924b7-c6b5-482e-bebc-ad9f9d8fa7cf)
+![com-crop-unscreen](https://github.com/Niket47/Niket47/assets/116706204/fbac4418-6ab8-41a5-a30f-6462c861c757)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-dadhaniya-885646198) 

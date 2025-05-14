@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native Projects<br>👯 I’m looking to collaborate on React Native Projects<br>💬 Ask me about React Native, JavaScript<br>📫 How to reach me dadhaniyaniket153@gmail.com
+🔭 I’m currently working on React Native Projects<br>👯 I’m looking to collaborate on React Native Projects<br>💬 Ask me about React Native, JavaScript<br>
 
 ![com-crop-unscreen](https://github.com/Niket47/Niket47/assets/116706204/fbac4418-6ab8-41a5-a30f-6462c861c757)
 
